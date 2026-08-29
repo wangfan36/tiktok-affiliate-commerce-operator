@@ -1,0 +1,6 @@
+* text=auto
+*.md text eol=lf
+*.yaml text eol=lf
+*.py text eol=lf
+.gitignore text eol=lf
+VERSION text eol=lf

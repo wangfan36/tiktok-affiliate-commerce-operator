@@ -1,0 +1,7 @@
+interface:
+  display_name: "TikTok 美国达人带货运营"
+  short_description: "美国TikTok选品、收益、达人、AI素材与发布复盘"
+  default_prompt: "Use $tiktok-affiliate-commerce-operator to screen US TikTok Shop affiliate products and design the next profitable video test."
+
+policy:
+  allow_implicit_invocation: true
